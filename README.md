@@ -12,4 +12,4 @@ participants:
 
 4. Shahar Dvir
 
-![Logo](bike rental.jpg)
+![Logo](bikerental.jpg)
