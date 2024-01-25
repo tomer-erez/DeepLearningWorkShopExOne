@@ -11,3 +11,5 @@ participants:
 3. Gal Mishan.
 
 4. Shahar Dvir
+
+![Logo](bike rental.png)
